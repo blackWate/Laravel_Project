@@ -1,0 +1,14 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//awesome
+$fa-font-path: "/Users/redsun/Documents/gba-to/node_modules/font-awesome/fonts" !default;
+
+@import 'node_modules/font-awesome/scss/font-awesome.scss';
